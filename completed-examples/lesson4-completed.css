@@ -3,17 +3,8 @@ body {
     font-family: Verdana, sans-serif;
 }
 
-div {
-    background-color: #1e1e1e;
-    width: 400px;
-    padding: 20px;
-    border: 3px solid #ff6b6b;
-    border-radius: 12px;
-}
-
 h1 {
     color: #ff6b6b;
-    text-align: center;
 }
 
 h2 {
@@ -34,7 +25,5 @@ a {
 }
 
 img {
-    width: 100%;
-    border-radius: 10px;
-    border: 2px solid #ffffff;
+    width: 300px;
 }
