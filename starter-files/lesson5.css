@@ -4,14 +4,18 @@ body {
 }
 
 /* añadir estilos al contenedor (div) */
-
+/* background-color */
+/* width */
+/* padding */
+/* border */
+/* border-radius */
 
 h1 {
-    color: #ff6b6b;
+    color: #ED4D27;
 }
 
 h2 {
-    color: #ffd166;
+    color: #4F40FF;
 }
 
 p {
@@ -30,4 +34,6 @@ a {
 /* añadir algunos estilos a la imagen */
 img {
     width: 300px;
+    /* border */
+    /* border-radius */
 }
