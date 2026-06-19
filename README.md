@@ -1,4 +1,4 @@
-# Web Dev Course: Watchgate
+# Introducción al Desarrollo Web para Principiantes
 
 Este es el repositorio del curso de Introducción a HTML y CSS. Este proyecto está diseñado para enseñarte ciertos aspectos fundamentos del desarrollo web paso a paso.
 
@@ -19,37 +19,12 @@ Para facilitar tu aprendizaje, este proyecto está dividido en dos directorios p
 * *(Opcional para desarrollo local)* **Editor de Código:** Visual Studio Code.
 * *(Opcional para desarrollo local)* **Control de Versiones:** Git.
 
----
-
-## Temario de Lecciones
-
-### Lección 1: Tu primera página web
-* Entender qué es una página web y qué es HTML como lenguaje para crear su estructura.
-* Reconocer la estructura básica del documento HTML.
-* Escribir tu primera línea de html.
-
-### Lección 2: Texto y listas para tu tarjeta
-* Entender qué son las etiquetas HTML, los elementos y los atributos, y cómo se usan para construir contenido.
-* Usar etiquetas básicas de texto.
-* Introducir atributos simples.
-
-### Lección 3: Agregar imagen y enlaces
-* Aprender a integrar recursos multimedia visuales en la tarjeta.
-* Implementar hipervínculos para hacer la página navegable.
-
-### Lección 4: Colores y estilos con CSS
-* Introducción a las hojas de estilo.
-* Uso de selectores, clases y propiedades para cambiar colores y tipografías.
-
-### Lección 5: Construir la tarjeta bonita
-* Técnicas de diseño para centrar elementos en la pantalla.
-* Aplicación de bordes, radios y sombras para darle profundidad y un aspecto moderno a tu tarjeta.
 
 ## 🚀 Cómo empezar
 
 Dado que este curso está optimizado para editores en línea, te ofrecemos dos caminos para comenzar a trabajar:
 
 ### Trabajo en Editor en Línea (Ruta del Curso)
-1. Abre tu editor en línea preferido (ej. CodePen).
+1. Abre tu editor en línea preferido (ej. CodePen: [https://codepen.io/dakoduz/pen/ZYLOzEy](https://codepen.io/dakoduz/pen/ZYLOzEy)).
 2. Busca en la carpeta `starter-files/` directamente aquí en GitHub.
 3. Copia el código base de la lección correspondiente en tu editor en línea
