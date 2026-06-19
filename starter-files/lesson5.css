@@ -1,0 +1,39 @@
+body {
+    background-color: #121212;
+    font-family: Verdana, sans-serif;
+}
+
+/* añadir estilos al contenedor (div) */
+/* background-color */
+/* width */
+/* padding */
+/* border */
+/* border-radius */
+
+h1 {
+    color: #ED4D27;
+}
+
+h2 {
+    color: #4F40FF;
+}
+
+p {
+    color: #f1f1f1;
+}
+
+li {
+    color: #a8dadc;
+}
+
+a {
+    color: #4cc9f0;
+    text-decoration: none;
+}
+
+/* añadir algunos estilos a la imagen */
+img {
+    width: 300px;
+    /* border */
+    /* border-radius */
+}
