@@ -108,9 +108,17 @@ Para facilitar tu aprendizaje, este proyecto está dividido en dos directorios p
 * Descripción:
   * Técnicas de diseño para centrar elementos en la pantalla.
   * Aplicación de bordes, radios y sombras para darle profundidad y un aspecto moderno a tu tarjeta.
-* **Enlace video:**
-* **Duración del video:**
-* **Editor en línea:** [https://codepen.io/dakoduz/pen/ZYLOzEy](https://codepen.io/dakoduz/pen/ZYLOzEy)
+* **Enlace video:** [Leccion 5](https://youtu.be/UE-QkotLmyI)
+* **Duración del video:** 9:12
+* **Editor en línea:** [https://codepen.io/dosullz/pen/QNxdzd](https://codepen.io/dosullz/pen/QNxdzd)
+
+### Lección 6: Efecto hover divertido + compartir
+* Descripción:
+    * Animaciones interactivas con hover para que la imagen y el botón reaccionen al pasar el mouse.
+    * Integración de JavaScript para agregar una función de compartir el perfil.
+* **Enlace video:** [Leccion 6](https://youtu.be/SycAwzdbNl4)
+* **Duración del video:** 12:08
+* **Editor en línea:** [https://codepen.io/dosullz/pen/QNxdzd](https://codepen.io/dosullz/pen/QNxdzd)
 
 ## 🚀 Cómo empezar
 
