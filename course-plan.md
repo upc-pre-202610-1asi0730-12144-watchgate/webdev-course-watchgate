@@ -92,8 +92,8 @@ Para facilitar tu aprendizaje, este proyecto está dividido en dos directorios p
 * Descripción:
   * Aprender a integrar recursos multimedia visuales en la tarjeta.
   * Implementar hipervínculos para hacer la página navegable.
-* **Enlace video:**
-* **Duración del video:**
+* **Enlace video:** [Leccion 3](https://youtu.be/3DpFBYHdjGw)
+* **Duración del video:** 6:45
 * **Editor en línea:** [https://codepen.io/dakoduz/pen/ZYLOzEy](https://codepen.io/dakoduz/pen/ZYLOzEy)
 
 ### Lección 4: Colores y estilos con CSS
