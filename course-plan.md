@@ -84,8 +84,8 @@ Para facilitar tu aprendizaje, este proyecto está dividido en dos directorios p
   * Entender qué son las etiquetas HTML, los elementos y los atributos, y cómo se usan para construir contenido.
   * Usar etiquetas básicas de texto.
   * Introducir atributos simples.
-* **Enlace video:**
-* **Duración del video:**
+* **Enlace video:** [Leccion 2](https://youtu.be/Uyj-wlHKcqU)
+* **Duración del video:** 5:22 minutos
 * **Editor en línea:** [https://codepen.io/dakoduz/pen/ZYLOzEy](https://codepen.io/dakoduz/pen/ZYLOzEy)
   
 ### Lección 3: Agregar imagen y enlaces
