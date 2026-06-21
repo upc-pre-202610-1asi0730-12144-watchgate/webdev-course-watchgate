@@ -1,49 +1,11 @@
-<div align="center">
-    <img src="https://i.ytimg.com/vi/T-XzMHW_XrY/maxresdefault.jpg" width="60%">
-</div>
 
-<div align="center">
-
-<br>
-
-# Universidad Peruana de Ciencias Aplicadas
-
-## Carrera de Ingeniería de Software
-
-</div>
-
-<div align="center"> 
-
-**Ciclo:** 2026 - 1  
-**Curso:** Aplicaciones Web<br>
-**NRC:** 12144<br>
-**Docente:** Efraín Ricardo Bautista Ubillús
-
-## "Informe de trabajo de responsabilidad social"
-
-
-## Relacion de integrantes:
-
-
-| Código      | Nombre                              |
-|-------------|-------------------------------------|
-| U201819276  | Bardales Tejada, Luis Alexis        |
-| U202416276  | Higa Kohatsu, Alonso Enrique       |
-| U202412903  | Lozano Quispe, Fabricio Jofred      |
-| U202418645  | Sandoval Aiquipa, Kelber Yamir      |
-| U202414356  | Vite Celis, Rodrigo Matias          |
-
-<div style="font-weight: bold;"> Junio, 2026</div>
-
-</div>
-
-<br>
-
-# Introducción al Desarrollo Web para Principiantes
+# Fundamentos de Desarrollo Web
 
 Este es el repositorio del curso de Introducción a HTML y CSS. Este proyecto está diseñado para enseñarte ciertos aspectos fundamentos del desarrollo web paso a paso.
 
 Al finalizar estas lecciones, sabrás estructurar y diseñar una tarjeta web visualmente atractiva.
+
+**Duración total**: ~60 minutos
 
 **Público Objetivo:** Estudiantes entre 12 a 17 años que no saben nada de programación.
 
@@ -59,13 +21,6 @@ Para facilitar tu aprendizaje, este proyecto está dividido en dos directorios p
 * 📂 **`completed-examples/`**: Contiene el código finalizado de cada lección para que puedas comparar tus resultados o resolver dudas si te quedas atascado.
 * 📄 **`course-plan.md`**: El detalle completo de la planificación del curso y con links importantes.
 
-## 🛠️ Herramientas Requeridas
-
-* **Editor en línea (Recomendado):** [CodePen](https://codepen.io/), [JSFiddle](https://jsfiddle.net/) o [Replit](https://replit.com/). (Elige el que prefieras).
-* **Navegador Web:** Google Chrome, Mozilla Firefox o Microsoft Edge.
-* *(Opcional para desarrollo local)* **Editor de Código:** Visual Studio Code.
-* *(Opcional para desarrollo local)* **Control de Versiones:** Git.
-
 ---
 
 ## Temario de Lecciones
@@ -75,7 +30,7 @@ Para facilitar tu aprendizaje, este proyecto está dividido en dos directorios p
   * Entender qué es una página web y qué es HTML como lenguaje para crear su estructura.
   * Reconocer la estructura básica del documento HTML.
   * Escribir tu primera línea de html.
-* **Enlace video:** [https://youtu.be/J9a3BiqmD_8](https://youtu.be/J9a3BiqmD_8)
+* **Enlace video:** [Lección 1](https://youtu.be/J9a3BiqmD_8)
 * **Duración del video:** 7.20 minutos.
 * **Editor en línea:** [https://codepen.io/dakoduz/pen/ZYLOzEy](https://codepen.io/dakoduz/pen/ZYLOzEy)
 
@@ -120,11 +75,114 @@ Para facilitar tu aprendizaje, este proyecto está dividido en dos directorios p
 * **Duración del video:** 12:08
 * **Editor en línea:** [https://codepen.io/dosullz/pen/QNxdzd](https://codepen.io/dosullz/pen/QNxdzd)
 
-## 🚀 Cómo empezar
+## Recursos Adicionales
+<ul>
+  <li>
+    <strong>Código Fuente Completo:</strong>
+    <a href="https://github.com/upc-pre-202610-1asi0730-12144-watchgate/webdev-course-watchgate/tree/main" target="_blank">
+      Repositorio de GitHub
+    </a>
+  </li>
 
-Dado que este curso está optimizado para editores en línea, te ofrecemos dos caminos para comenzar a trabajar:
+  <li>
+    <strong>Todas las Actividades Prácticas:</strong>
+    <table>
+      <thead>
+        <tr>
+          <th>Lección #</th>
+          <th>Actividad</th>
+          <th>Empezar a Programar</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>Tu primera página web</td>
+          <td>
+            <a href="https://codepen.io/dosullz/pen/QNxdzd" target="_blank">CodePen</a>
+          </td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Texto y listas para tu tarjeta</td>
+          <td>
+            <a href="https://codepen.io/dosullz/pen/QNxdzd" target="_blank">CodePen</a>
+          </td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Agregar imagen y enlaces</td>
+          <td>
+            <a href="https://codepen.io/dosullz/pen/QNxdzd" target="_blank">CodePen</a>
+          </td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>Colores y estilos con CSS</td>
+          <td>
+            <a href="https://codepen.io/dosullz/pen/QNxdzd" target="_blank">CodePen</a>
+          </td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>Construir la tarjeta bonita</td>
+          <td>
+            <a href="https://codepen.io/dosullz/pen/QNxdzd" target="_blank">CodePen</a>
+          </td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>Efecto hover divertido + compartir</td>
+          <td>
+            <a href="https://codepen.io/dosullz/pen/QNxdzd" target="_blank">CodePen</a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <strong>Cuestionario:</strong>
+    <a href="https://view.genially.com/6a375233d13221394f3b7dbf" target="_blank">
+      Pon a prueba tus conocimientos
+    </a>
+  </li>
 
-### Trabajo en Editor en Línea (Ruta del Curso)
-1. Abre tu editor en línea preferido (ej. CodePen: [https://codepen.io/dakoduz/pen/ZYLOzEy](https://codepen.io/dakoduz/pen/ZYLOzEy)).
-2. Busca en la carpeta `starter-files/` directamente aquí en GitHub.
-3. Copia el código base de la lección correspondiente en tu editor en línea
+  <li>
+    <strong>Compartir:</strong> #WebDevBeginners
+  </li>
+</ul>
+
+
+## 👥 Elaboración
+
+**Universidad Peruana de Ciencias Aplicadas (UPC)**
+
+**Carrera:** Ingeniería de Software
+
+**Período Académico:** 202610
+
+**Curso:** 1ASI0730 – Aplicaciones Web
+
+**NRC:** 12144
+
+### Equipo de Trabajo
+
+* **Nombre del equipo:** Watchgate
+* **Líder del equipo:** Rodrigo Matias Vite Celis
+* **Integrantes del equipo:**
+
+  * Luis Alexis Bardales Tejada
+  * Alonso Enrique Higa Kohatsu
+  * Fabricio Jofred Lozano Quispe
+  * Kelber Yamir Sandoval Aiquipa
+  * Rodrigo Matias Vite Celis
+
+### Información de Entrega
+
+* **Fecha de entrega:** 20/06/2026
+
+---
+
+## 🎉 ¡Gracias por completar el curso!
+
+Esperamos que este material haya contribuido al desarrollo de sus habilidades en tecnologías web y les motive a continuar explorando el desarrollo de aplicaciones modernas.
