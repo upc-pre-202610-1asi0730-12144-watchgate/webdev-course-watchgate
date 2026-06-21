@@ -55,8 +55,8 @@ Para facilitar tu aprendizaje, este proyecto está dividido en dos directorios p
 * Descripción:
   * Introducción a las hojas de estilo.
   * Uso de selectores, clases y propiedades para cambiar colores y tipografías.
-* **Enlace video:**
-* **Duración del video:**
+* **Enlace video:** [Leccion 4](https://www.youtube.com/watch?v=NOnVV_rz36o)
+* **Duración del video:** 11:11
 * **Editor en línea:** [https://codepen.io/dakoduz/pen/ZYLOzEy](https://codepen.io/dakoduz/pen/ZYLOzEy)
 
 ### Lección 5: Construir la tarjeta bonita
